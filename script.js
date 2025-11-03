@@ -103,7 +103,7 @@ document.addEventListener('keydown', function(e) {
 // --------------------------------------------------------------------------
  
  // 🎯 Convocation Date and Time (Karachi)
-  const eventDate = new Date("December 3, 2025 09:00:00 GMT+0500").getTime();
+  const eventDate = new Date("December 8, 2025 09:00:00 GMT+0500").getTime();
 
   const countdown = setInterval(() => {
     const now = new Date().getTime();
